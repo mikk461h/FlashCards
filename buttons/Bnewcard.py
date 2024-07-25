@@ -1,6 +1,6 @@
 import customtkinter as ctk
 from menus.newword import *
-from WordHandler import *
+from database.WordHandler import *
 from menus.flashcard import *
 
 

@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
-from WordHandler import *
+from database.WordHandler import *
 from mediator import Mediator
 from error import *
 

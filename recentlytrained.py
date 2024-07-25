@@ -1,6 +1,6 @@
 import customtkinter as ctk
-from recentlyframe import RecentlyFrame
-from WordHandler import WordHandler
+from frames.recentlyframe import RecentlyFrame
+from database.WordHandler import WordHandler
 from mediator import Mediator
 
 

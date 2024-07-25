@@ -1,8 +1,8 @@
 import tkinter as tk
 from tkinter import ttk
 import customtkinter as ctk
-from wordframe import *
-from WordHandler import *
+from frames.wordframe import *
+from database.WordHandler import *
 from mediator import Mediator
 
 class Progress:

@@ -1,5 +1,4 @@
-from AzureConnect import AzureConnect
-from connecting import Connecting
+from database.AzureConnect import AzureConnect
 
 class WordHandler:
     def __init__(self):

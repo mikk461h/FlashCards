@@ -1,6 +1,6 @@
 import tkinter as tk
 import customtkinter as ctk 
-from WordHandler import *
+from database.WordHandler import *
 from menus.flashcard import *
 
 class Wordframe(tk.Frame):

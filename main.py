@@ -7,7 +7,7 @@ from menus.newword import *
 from menus.flashcard import *
 from menus.progress import *
 from progressbar import *
-from wordframe import *
+from frames.wordframe import *
 from recentlytrained import RecentlyTrained
 
 
