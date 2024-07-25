@@ -1,0 +1,8 @@
+# Add Recently trained
+    * Make sure not can add same
+
+# Add EDIT button to WordFrame
+
+# Redesign +NewWord
+
+# Complete ADD sentence
